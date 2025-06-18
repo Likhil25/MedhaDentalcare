@@ -5,7 +5,7 @@ const Footer = () => {
   const socialLinks = [
     { icon: Facebook, href: '#', label: 'Facebook' },
     { icon: Twitter, href: '#', label: 'Twitter' },
-    { icon: Instagram, href: '#', label: 'Instagram' },
+    { icon: Instagram, href: 'https://www.instagram.com/medhadentalcare_hyd?utm_source=qr&igsh=ZnF3MHRnNGEzemZz', label: 'Instagram' },
     { icon: Linkedin, href: '#', label: 'LinkedIn' }
   ];
 

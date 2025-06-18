@@ -74,7 +74,7 @@ const Header = () => {
                   <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-blue-600 transition-all duration-200 group-hover:w-full"></span>
                 </a>
               ))}
-              <button className="bg-gradient-to-r from-blue-600 to-teal-500 text-white px-6 py-2 rounded-full font-medium hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-200">
+              <button className="bg-gradient-to-r from-blue-600 to-teal-500 text-white px-6 py-2 rounded-full font-medium hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-200" onClick={() => window.open('https://wa.me/919491944467','_blank')}>
                 Book Appointment
               </button>
             </nav>
@@ -104,7 +104,7 @@ const Header = () => {
                 </a>
               ))}
               <div className="pt-4 border-t border-gray-200">
-                <button className="w-full bg-gradient-to-r from-blue-600 to-teal-500 text-white px-6 py-3 rounded-full font-medium">
+                <button className="w-full bg-gradient-to-r from-blue-600 to-teal-500 text-white px-6 py-3 rounded-full font-medium" onClick={() => window.open('https://wa.me/919491944467', '_blank')}>
                   Book Appointment
                 </button>
                 <div className="mt-4 space-y-2 text-sm text-gray-600">

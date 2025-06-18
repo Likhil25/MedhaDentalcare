@@ -62,7 +62,7 @@ const Hero = () => {
           <div className="relative mt-8 lg:mt-0">
             <div className="relative z-10">
               <img
-                src="https://images.pexels.com/photos/6812540/pexels-photo-6812540.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="src\components\main pic.png"
                 alt="Professional dental care"
                 className="rounded-2xl lg:rounded-3xl shadow-2xl w-full h-64 sm:h-80 lg:h-[600px] object-cover"
               />
